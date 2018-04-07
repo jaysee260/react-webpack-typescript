@@ -1,0 +1,22 @@
+$fondo : #f3f3f3;
+$stdfont:  Arial, Helvetica, sans-serif;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: $fondo;
+  font-family: $stdfont;
+}
+
+.btn {
+  margin: 0 10px;
+  border: 0;
+  padding: 8px;
+  border-radius: 5px;
+  outline: none;
+  
+  &:active {
+    background-color: tomato;
+  }
+}
