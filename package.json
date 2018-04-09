@@ -1,12 +1,12 @@
 {
   "name": "react-webpack-typescript",
   "version": "1.0.0",
-  "description": "A basic reack webpack and typescript starter framework",
+  "description": "A basic react webpack and typescript boilerplate",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --open"
   },
-  "author": "Richard Oliver Bray",
+  "author": "Juan C. Gonzalez",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^16.0.27",
